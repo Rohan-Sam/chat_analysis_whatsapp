@@ -42,7 +42,7 @@ def most_busy_users(df):
     new_df.index = new_df.index + 1
     return x,new_df
 
-warnings.filterwarnings("ignore", category=pd.core.common.SettingWithCopyWarning)
+# warnings.filterwarnings("ignore", category=pd.core.common.SettingWithCopyWarning)
 def word_cloud_gen(selected_user,df):
 
     if selected_user != 'Overall':

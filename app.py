@@ -7,7 +7,7 @@ import seaborn as sns
 import warnings
 
 
-warnings.filterwarnings("ignore", category=UserWarning, message="Glyph.*missing from current font.")
+# warnings.filterwarnings("ignore", category=UserWarning, message="Glyph.*missing from current font.")
 
 
 st.sidebar.title("Whatsapp Chat Analyser")

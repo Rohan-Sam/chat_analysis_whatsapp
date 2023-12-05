@@ -2,8 +2,7 @@ import re
 import pandas as pd
 from datetime import datetime
 
-# f = open('./chats/Dellaware.txt','r',encoding='utf-8')
-# data = f.read()
+
 
 
 
