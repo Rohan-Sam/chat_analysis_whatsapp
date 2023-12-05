@@ -28,7 +28,7 @@ if uploaded_file is not None:
 
     selected_user = st.sidebar.selectbox("Show analysis wrt",user_list)
 
-    st.dataframe(df)
+    # st.dataframe(df)
 
 
     if st.sidebar.button("Show Analysis"):
