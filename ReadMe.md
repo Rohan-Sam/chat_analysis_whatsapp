@@ -10,7 +10,7 @@ The WhatsApp Chat Analyzer is a web application that allows users to analyze Wha
 - **Interactive Web Interface:** Developed using Streamlit for a user-friendly experience.
 - **Detailed Insights:** Provides statistics, timelines, activity maps, and more for in-depth analysis.
 - **Emoji and Word Analysis:** Includes features such as emoji count and word frequency analysis.
-- **Heroku Deployment:** Accessible to anyone with a shareable link.
+- **Deployment:** Accessible to anyone with a shareable link.
 
 ## Usage
 
